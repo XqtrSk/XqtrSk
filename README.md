@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @XqtrSk
+- 👀 I’m interested in Study Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
+- 📫 How to reach me @caioxq3r
